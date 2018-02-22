@@ -1,0 +1,10 @@
+{
+    "OSSServer": {
+        "address": "",
+        "accessKeyId": "",
+        "accessKeySecret": "",
+        "region": "",
+        "bucket": "",
+        "staticBasePath": ""
+    }
+}
